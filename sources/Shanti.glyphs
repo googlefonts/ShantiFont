@@ -1,14 +1,36 @@
 {
 .appVersion = "3201";
-copyright = "Copyright (c) 2011 by vernon adams. All rights reserved.";
+copyright = "Copyright 2011 The Shanti Project Authors (https://github.com/googlefonts/ShantiFont)";
 customParameters = (
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
 name = trademark;
-value = "Shanti is a trademark of vernon adams.";
+value = "Seymour One is a trademark of vernon adams.";
+},
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = newt;
 }
 );
 date = "2023-07-13 14:03:05 +0000";
-designer = "vernon adams";
+designer = "Vernon Adams";
+designerURL = "http://www.sansoxygen.com";
 familyName = Shanti;
 fontMaster = (
 {
@@ -17967,8 +17989,8 @@ quotesinglbase = -24;
 };
 };
 };
-manufacturer = "vernon adams";
-manufacturerURL = "http://www.newtypography.co.uk";
+manufacturer = "Vernon Adams";
+manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 2048;
 userData = {
 GSDimensionPlugin.Dimensions = {
@@ -17985,5 +18007,5 @@ tH = 143;
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 100;
 }
