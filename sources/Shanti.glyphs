@@ -2268,7 +2268,7 @@ unicode = 208;
 },
 {
 glyphname = E;
-lastChange = "2023-09-15 10:02:59 +0000";
+lastChange = "2023-09-15 13:23:05 +0000";
 layers = (
 {
 anchors = (
@@ -2278,7 +2278,7 @@ pos = (569,0);
 },
 {
 name = ogonek;
-pos = (717,0);
+pos = (917,0);
 },
 {
 name = top;
@@ -3021,7 +3021,7 @@ unicode = 274;
 },
 {
 glyphname = Eogonek;
-lastChange = "2023-07-26 15:18:16 +0000";
+lastChange = "2023-09-15 13:23:05 +0000";
 layers = (
 {
 background = {
@@ -3096,7 +3096,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (358,-15);
+pos = (558,-15);
 ref = ogonekcomb;
 }
 );
@@ -10836,7 +10836,7 @@ width = 1400;
 },
 {
 glyphname = E.ss01;
-lastChange = "2023-09-15 10:00:46 +0000";
+lastChange = "2023-09-15 13:23:10 +0000";
 layers = (
 {
 anchors = (
@@ -10846,7 +10846,7 @@ pos = (569,0);
 },
 {
 name = ogonek;
-pos = (717,0);
+pos = (917,0);
 },
 {
 name = top;
@@ -11581,7 +11581,7 @@ width = 1138;
 },
 {
 glyphname = Eogonek.ss01;
-lastChange = "2023-09-15 10:03:45 +0000";
+lastChange = "2023-09-15 13:23:10 +0000";
 layers = (
 {
 background = {
@@ -11656,7 +11656,7 @@ shapes = (
 ref = E.ss01;
 },
 {
-pos = (358,-15);
+pos = (558,-15);
 ref = ogonekcomb;
 }
 );
@@ -15141,7 +15141,7 @@ unicode = 240;
 },
 {
 glyphname = e;
-lastChange = "2023-09-15 12:49:11 +0000";
+lastChange = "2023-09-15 13:23:22 +0000";
 layers = (
 {
 anchors = (
@@ -15151,7 +15151,7 @@ pos = (522,0);
 },
 {
 name = ogonek;
-pos = (552,-3);
+pos = (673,6);
 },
 {
 name = top;
@@ -16072,7 +16072,7 @@ unicode = 275;
 },
 {
 glyphname = eogonek;
-lastChange = "2023-07-26 15:18:16 +0000";
+lastChange = "2023-09-15 13:23:22 +0000";
 layers = (
 {
 background = {
@@ -16163,7 +16163,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (193,-18);
+pos = (314,-9);
 ref = ogonekcomb;
 }
 );
